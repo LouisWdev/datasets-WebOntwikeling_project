@@ -1,0 +1,51 @@
+[
+  {
+    "faction_id": "imperium",
+    "leader": "The Emperor of Mankind",
+    "alignment": "Order",
+    "image_url": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-LouisWackenier/refs/heads/main/images/Factions/Imperium.webp?token=GHSAT0AAAAAAEJ2GEJPD3KCB2DR246KYM4Q2VSLARA",
+    "military_strength_rating": 10
+  },
+  {
+    "faction_id": "mechanicus",
+    "leader": "Fabricator-General",
+    "alignment": "Order",
+    "image_url": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-LouisWackenier/refs/heads/main/images/Factions/mechanicus.jpg?token=GHSAT0AAAAAAEJ2GEJOCAXWYVSE3GAUUAWU2VSLA6A",
+    "military_strength_rating": 8
+  },
+  {
+    "faction_id": "ultramarines",
+    "leader": "Roboute Guilliman",
+    "alignment": "Order",
+    "image_url": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-LouisWackenier/refs/heads/main/images/Factions/ultramarines.png?token=GHSAT0AAAAAAEJ2GEJPQNNMIWK3PYTODZSO2VSLBPQ",
+    "military_strength_rating": 9
+  },
+  {
+    "faction_id": "blood_angels",
+    "leader": "Commander Dante",
+    "alignment": "Order",
+    "image_url": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-LouisWackenier/refs/heads/main/images/Factions/blood_angels.png?token=GHSAT0AAAAAAEJ2GEJOC4MKGR66NYUIMFT42VSLBYQ",
+    "military_strength_rating": 8
+  },
+  {
+    "faction_id": "space_wolves",
+    "leader": "Logan Grimnar",
+    "alignment": "Order",
+    "image_url": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-LouisWackenier/refs/heads/main/images/Factions/space_wolves.webp?token=GHSAT0AAAAAAEJ2GEJPMWBQ73EORDST3R5G2VSLCDA",
+    "military_strength_rating": 8
+  },
+  {
+    "faction_id": "grey_knights",
+    "leader": "Grand Master Voldus",
+    "alignment": "Order",
+    "image_url": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-LouisWackenier/refs/heads/main/images/Factions/grey_knights.webp?token=GHSAT0AAAAAAEJ2GEJOWWUZ33O7R7EHPZEK2VSLCPQ",
+    "military_strength_rating": 9
+  },
+  {
+    "faction_id": "drukhari",
+    "leader": "Asdrubael Vect",
+    "alignment": "Chaos/Xenos",
+    "image_url": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-LouisWackenier/refs/heads/main/images/Factions/drukhari.png?token=GHSAT0AAAAAAEJ2GEJP7QLBRUU4X4U3WN5Q2VSLCYA",
+    "military_strength_rating": 7
+  }
+]

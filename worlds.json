@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Holy Terra",
+    "type": "Throne World",
+    "population_billions": 4000.0,
+    "is_imperium_capital": true,
+    "discovered_date": "0001-01-01",
+    "image_url": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-LouisWackenier/refs/heads/main/images/worlds/terra.jpg?token=GHSAT0AAAAAAEJ2GEJPP3EFYODPWDEMCJNG2VSK3SQ",
+    "key_locations": ["The Golden Throne", "The Imperial Palace", "The Eternity Gate"],
+    "faction_id": "imperium"
+  },
+  {
+    "id": 2,
+    "name": "Mars",
+    "type": "Forge World",
+    "population_billions": 200.0,
+    "is_imperium_capital": false,
+    "discovered_date": "2050-07-20",
+    "image_url": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-LouisWackenier/refs/heads/main/images/worlds/Mars.webp?token=GHSAT0AAAAAAEJ2GEJOILM3RNENEX2JUBDY2VSK45A",
+    "key_locations": ["Olympus Mons", "The Noctis Labyrinth", "Ironstrider Manufactorums"],
+    "faction_id": "mechanicus"
+  },
+  {
+    "id": 3,
+    "name": "Macragge",
+    "type": "Civilized World",
+    "population_billions": 14.5,
+    "is_imperium_capital": false,
+    "discovered_date": "3012-11-05",
+    "image_url": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-LouisWackenier/refs/heads/main/images/worlds/Macragge.webp?token=GHSAT0AAAAAAEJ2GEJP4RN7HNMHTING35BE2VSK5JQ",
+    "key_locations": ["Fortress of Hera", "Magna Civitas", "Valley of Laphis"],
+    "faction_id": "ultramarines"
+  },
+  {
+    "id": 4,
+    "name": "Cadia",
+    "type": "Fortress World",
+    "population_billions": 0.0,
+    "is_imperium_capital": false,
+    "discovered_date": "3500-04-12",
+    "image_url": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-LouisWackenier/refs/heads/main/images/worlds/Cadia.webp?token=GHSAT0AAAAAAEJ2GEJPN3YEU5FNFDN6SQDS2VSK5TQ",
+    "key_locations": ["Kasr Tyrok", "The Kasr Stark", "The Pylons"],
+    "faction_id": "imperium"
+  },
+  {
+    "id": 5,
+    "name": "Baal",
+    "type": "Death World",
+    "population_billions": 1.2,
+    "is_imperium_capital": false,
+    "discovered_date": "4100-08-30",
+    "image_url": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-LouisWackenier/refs/heads/main/images/worlds/Baal.webp?token=GHSAT0AAAAAAEJ2GEJPT47ZPAT5SKYVG7TK2VSK6GQ",
+    "key_locations": ["Arx Angelicum", "The Blood Plains", "Dome of Angels"],
+    "faction_id": "blood_angels"
+  },
+  {
+    "id": 6,
+    "name": "Catachan",
+    "type": "Death World",
+    "population_billions": 0.8,
+    "is_imperium_capital": false,
+    "discovered_date": "4520-01-15",
+    "image_url": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-LouisWackenier/refs/heads/main/images/worlds/Catachan.webp?token=GHSAT0AAAAAAEJ2GEJOKQCTIVP7PUVCMPI62VSK6UQ",
+    "key_locations": ["Jungle Zone Prime", "Fortress Deathworld", "Shrike River"],
+    "faction_id": "imperium"
+  },
+  {
+    "id": 7,
+    "name": "Fenris",
+    "type": "Death World",
+    "population_billions": 3.4,
+    "is_imperium_capital": false,
+    "discovered_date": "3890-12-25",
+    "image_url": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-LouisWackenier/refs/heads/main/images/worlds/Fenris.webp?token=GHSAT0AAAAAAEJ2GEJPW2V62OP2754RY7RM2VSK67A",
+    "key_locations": ["The Fang", "Asaheim", "The Iron Sea"],
+    "faction_id": "space_wolves"
+  },
+  {
+    "id": 8,
+    "name": "Vigilus",
+    "type": "Sentinel World",
+    "population_billions": 120.0,
+    "is_imperium_capital": false,
+    "discovered_date": "7611-06-18",
+    "image_url": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-LouisWackenier/refs/heads/main/images/worlds/Vigilus.jpeg?token=GHSAT0AAAAAAEJ2GEJPPY7PTSCWSGH3JHY22VSK7KA",
+    "key_locations": ["Hyperia Hivesprawl", "The Oteck Hivesprawl", "Dirge Megalopolis"],
+    "faction_id": "imperium"
+  },
+  {
+    "id": 9,
+    "name": "Titan",
+    "type": "Fortress Moon",
+    "population_billions": 0.05,
+    "is_imperium_capital": false,
+    "discovered_date": "2060-03-10",
+    "image_url": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-LouisWackenier/refs/heads/main/images/worlds/Titan.webp?token=GHSAT0AAAAAAEJ2GEJOPBJWMMVYQU65PQGU2VSK7UA",
+    "key_locations": ["The Citadel of Titan", "The Chamber of Purity", "The Deodand"],
+    "faction_id": "grey_knights"
+  },
+  {
+    "id": 10,
+    "name": "Commorragh",
+    "type": "Webway City",
+    "population_billions": 500.0,
+    "is_imperium_capital": false,
+    "discovered_date": "0100-09-09",
+    "image_url": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-LouisWackenier/refs/heads/main/images/worlds/Commorragh.jpeg?token=GHSAT0AAAAAAEJ2GEJORXJPV7EB55ZYXEB22VSLACQ",
+    "key_locations": ["The Dark City", "High Commorragh", "The Arenas of the Wych Cults"],
+    "faction_id": "drukhari"
+  }
+]
